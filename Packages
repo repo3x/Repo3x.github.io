@@ -1,0 +1,14 @@
+Package: com.repo3x.spooktober
+Version: 0.1
+Architecture: iphoneos-arm
+Filename: ./debs/com.repo3x.spooktober_1.0_iphoneos-arm.deb
+Size: 4917146
+MD5sum: 69f3893546ac4f1bafe170023b0c83d4
+SHA1: 608b83d65530a11d007a2e88b9c64618054d156e
+SHA256: 053601e32d6c7faa148b9fa0df2395eb199073a1275ff27cff4fb783900e2014
+Section: Themes
+Description: ثيم يشمل الكثير من الايقونات وتصميم مميز 
+Maintainer: Wolves Repo
+Author: 23 Aaron
+Depiction: https://Repo3x.github.io/depictions/?p=com.repo3x.spooktober
+Name: Spooktober

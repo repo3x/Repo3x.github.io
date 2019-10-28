@@ -1,0 +1,28 @@
+<package>
+	<id>com.repo3x.spooktober</id>
+	<name>Spooktober</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Snowboard, Anemone , iThemer</package>
+	</dependencies>
+	<descriptionlist>
+		<description>ثيم يشمل الكثير من الايقونات وتصميم مميز</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>S.PNG</image>
+		</screenshot>
+		<screenshot>
+			<image>S2.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
