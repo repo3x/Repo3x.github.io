@@ -1,0 +1,25 @@
+<package>
+	<id>com.repo3x.reddead</id>
+	<name>RedDead</name>
+	<version>1.1.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Snowboard, Anemone , iThemer</package>
+	</dependencies>
+	<descriptionlist>
+		<description>ثيم جميل ذو ايقونات حمراء</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>red.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

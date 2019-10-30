@@ -12,3 +12,18 @@ Maintainer: Wolves Repo
 Author: 23 Aaron
 Depiction: https://Repo3x.github.io/depictions/?p=com.repo3x.spooktober
 Name: Spooktober
+
+Package: com.repo3x.reddead
+Name: RedDead
+Version: 1.1.8
+Architecture: iphoneos-arm
+Filename: ./debs/com.repo3x.reddead_1.1.8_iphoneos-arm.deb
+Size: 4180168
+MD5sum: 26bbe10bafa126246ac07e6d9161a303
+SHA1: 0b323ea2ff020b123089c5311175f98211adf76e
+SHA256: 55ccc04073fa2b5fb5c208e2ff1cc09b260cc9a47ce374e409b6ec558a0e4293
+Section: Themes
+Description: ثيم جميل ذو ايقونات حمراء
+Maintainer: Future <Repo9k@gmail.com>
+Author: a7lafe <derejulian@gmail.com>
+Depiction: https://Awolves.github.io/repo/depictions/?p=com.repo3x.reddead
